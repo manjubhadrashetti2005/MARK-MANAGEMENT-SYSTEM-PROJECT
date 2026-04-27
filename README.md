@@ -10,3 +10,5 @@ UpdateStudent : https://github.com/manjubhadrashetti2005/MARK-MANAGEMENT-SYSTEM-
 StudentMarkReport : https://github.com/manjubhadrashetti2005/MARK-MANAGEMENT-SYSTEM-PROJECT/blob/master/StudentMarkReport.png
 
 DisplayReport : https://github.com/manjubhadrashetti2005/MARK-MANAGEMENT-SYSTEM-PROJECT/blob/master/StudentMarkReport.png
+
+DeleteRecord : https://github.com/manjubhadrashetti2005/MARK-MANAGEMENT-SYSTEM-PROJECT/blob/master/DeleteRecord.png
